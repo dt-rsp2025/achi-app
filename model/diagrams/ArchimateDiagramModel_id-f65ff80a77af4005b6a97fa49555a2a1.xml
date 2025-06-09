@@ -1,4 +1,29 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="POS"
-    id="id-f65ff80a77af4005b6a97fa49555a2a1"/>
+    id="id-f65ff80a77af4005b6a97fa49555a2a1">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b48b4f4c21d94ecc8059b16bc84bc1d5"
+      name="External Roles"
+      textAlignment="1">
+    <bounds
+        x="60"
+        y="48"
+        width="301"
+        height="205"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4ed5653576d94bdbad10740f78097623">
+      <bounds
+          x="156"
+          y="60"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-919e5618e7af4389a360f8248971fb5f.xml#id-919e5618e7af4389a360f8248971fb5f"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
